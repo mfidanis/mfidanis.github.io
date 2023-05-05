@@ -15,3 +15,8 @@
       ασκήσεις στο [κεκλιμένο επίπεδο]({{ site.url }}/acc.pdf) .
 
 $$E_k=\dfrac{1}{2}m\upsilon^2$$
+
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
