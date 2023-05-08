@@ -11,9 +11,9 @@
      <u>Προσοχή στην ανάλυση δυνάμεων</u>
   
  * Ασκήσεις
- 
  1. [A1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_14530.pdf)
-     <!-- ασκήσεις στο [κεκλιμένο επίπεδο]({{ site.url }}/acc.pdf) .-->
+ <!--1. [A1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_14530.pdf)
+     -- ασκήσεις στο [κεκλιμένο επίπεδο]({{ site.url }}/acc.pdf) .-->
 
 
 <!--$$E_k=\dfrac{1}{2}m\upsilon^2$$ -->
