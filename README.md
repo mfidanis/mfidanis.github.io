@@ -10,7 +10,7 @@
 
      <u>Προσοχή στην ανάλυση δυνάμεων</u>
   
- * Ασκήσεις
+ * Ασκήσεις (Κεφάλαιο 4, η έννοια της ενέργειας)
  1. [Άσκηση 1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_2_13780.pdf)
  2. [Άσκηση 2]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_13708.pdf)
  <!--1. [A1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_14530.pdf)
