@@ -12,7 +12,7 @@
   
  * Ασκήσεις
  
- 1. [Άσκηση 1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_13713.pdf)
+ 1. [A1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_4_13713.pdf)
      <!-- ασκήσεις στο [κεκλιμένο επίπεδο]({{ site.url }}/acc.pdf) .-->
 
 
