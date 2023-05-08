@@ -22,8 +22,9 @@
      
           To έργο µιας δύναµης που ασκείται σε ένα κινούµενο σώµαείναι ίσο µε µηδέν, εάν η δύναµη είναι συνεχώς κάθετη στη µετατόπιση του σώµατος. Τo έργο µιας δύναµης που ασκείται σε ένα σώµα είναι ίσο µε µηδέν, εάν το σηµείο εφαρµογής της δύναµης είναι ακίνητο.
           
+          <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
-<!--$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$-->
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
           
  * Ασκήσεις (Κεφάλαιο 4, η έννοια της ενέργειας)
  1. [Άσκηση 1]({{ site.url }}/GEL_CLA_FYS_SUBJECT_2_13780.pdf)
