@@ -26,7 +26,7 @@
     
     Όταν ένα σώμα μετατοπίζεται κατά 𝛥𝑥 υπό την επίδραση πολλών σταθερών δυνάμεων, η μεταβολή στην κινητική ενέργεια του σώματος ισούται με το συνολικό έργο των δυνάμεων αυτών
           
-          <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
           
